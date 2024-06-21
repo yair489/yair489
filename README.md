@@ -4,10 +4,6 @@
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
----
-
 [![Visitor Count](https://komarev.com/ghpvc/?username=yair489&color=blue)](https://github.com/yair489)
 
 ## Connect with me:
@@ -16,8 +12,8 @@
 
 ## GitHub Stats:
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yair489&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yair489&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yair489&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=yair489&theme=tokyonight" />
 </div>
 
 ## Languages and Tools:

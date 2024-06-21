@@ -1,4 +1,31 @@
-## Hi there 👋
+# Yair Turgeman
+
+### Third year computer science student from Ariel University
+
+---
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=yair489&color=blue)](https://github.com/yair489)
+
+## Connect with me:
+- **Email:** yairturgeman@gmail.com
+- **LinkedIn:** [Yair Turgeman](https://www.linkedin.com/in/yair-turgeman-663a96277)
+
+## GitHub Stats:
+![Yair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yair489&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yair489&theme=tokyonight)
+
+## Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <!--
 **yair489/yair489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

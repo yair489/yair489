@@ -4,6 +4,10 @@
 
 ---
 
+![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+---
+
 [![Visitor Count](https://komarev.com/ghpvc/?username=yair489&color=blue)](https://github.com/yair489)
 
 ## Connect with me:
@@ -11,8 +15,10 @@
 - **LinkedIn:** [Yair Turgeman](https://www.linkedin.com/in/yair-turgeman-663a96277)
 
 ## GitHub Stats:
-![Yair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yair489&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yair489&theme=tokyonight)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yair489&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yair489&theme=tokyonight" />
+</div>
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,7 +31,6 @@
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <!--
 **yair489/yair489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
